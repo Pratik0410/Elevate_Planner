@@ -29,12 +29,6 @@ Elevate Planner is a modern iOS app for students and educators to plan, track, a
 - **Notifications:** Receive timely alerts for upcoming classes and task deadlines.
 
 ---
-## 📋 Requirements
-
-- **iOS 17.0** or later
-- Xcode 15 or newer
-
----
 
 ## 🧑‍💻 Tech Stack
 
@@ -42,3 +36,10 @@ Elevate Planner is a modern iOS app for students and educators to plan, track, a
 - **UI Framework:** SwiftUI
 - **Architecture:** MVVM (Model-View-ViewModel)
 - **Storage:** SwiftData, CloudKit (iCloud)
+
+---
+## 📋 Requirements
+
+- **iOS 17.0** or later
+- Xcode 15 or newer
+
